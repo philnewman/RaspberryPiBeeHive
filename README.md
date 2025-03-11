@@ -1,3 +1,3 @@
-# RaspberryPiBeeHive
+# RaspberryPiBeeHiveTemp
 
 ## More info coming soon... 
