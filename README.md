@@ -1,3 +1,3 @@
-# picoBeeHive
+# RaspberryPiBeeHive
 
 ## More info coming soon... 
